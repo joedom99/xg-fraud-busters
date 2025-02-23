@@ -4,9 +4,9 @@
 
 ## Project Resources
 
-Link to slides - https://countryfriedcreative.com/media/Hacklytics-XG-Fraud-Buster-2025.pdf
-Link to GitHub - https://github.com/joedom99/xg-fraud-busters
-Link to DevPost - https://devpost.com/software/xg-fraud-buster-machine-learning-model-to-detect-fraud
+- Link to slides - https://countryfriedcreative.com/media/Hacklytics-XG-Fraud-Buster-2025.pdf
+- Link to GitHub - https://github.com/joedom99/xg-fraud-busters
+- Link to DevPost - https://devpost.com/software/xg-fraud-buster-machine-learning-model-to-detect-fraud
 
 ## Overview of the Jupyter Notebook
 
