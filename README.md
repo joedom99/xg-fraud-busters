@@ -2,6 +2,12 @@
 
 # Evaluating Machine Learning Models for Fraud Detection in Financial Transactions
 
+## Project Resources
+
+Link to slides - https://countryfriedcreative.com/media/Hacklytics-XG-Fraud-Buster-2025.pdf
+Link to GitHub - https://github.com/joedom99/xg-fraud-busters
+Link to DevPost - https://devpost.com/software/xg-fraud-buster-machine-learning-model-to-detect-fraud
+
 ## Overview of the Jupyter Notebook
 
 This project is implemented in a **Jupyter Notebook (.ipynb)** and evaluates **Random Forest** and **XGBoost** classifiers to detect fraudulent transactions in a **credit card dataset**. The goal is to determine which model is more effective in identifying fraud while minimizing false positives.
