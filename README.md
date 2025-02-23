@@ -67,3 +67,12 @@ By **minimizing false positives**, businesses can **reduce fraud investigation c
 This project successfully demonstrated that **XGBoost outperforms Random Forest in detecting credit card fraud**, achieving higher precision, recall, and accuracy. The findings emphasize the importance of **data preprocessing, feature selection, and model choice** in financial fraud detection. Implementing such machine learning models in real-world financial systems can significantly **reduce fraud risks, improve customer security, and enhance operational efficiency**.  
 
 Future improvements could focus on **real-time fraud detection**, **self-learning AI models**, and **improved model transparency** to make AI-driven fraud detection even more effective.
+
+## Dataset
+
+This model was trained and evaluated on the Credit Card Fraud Detection Dataset which can be found on Kaggle at:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
+
+
+
